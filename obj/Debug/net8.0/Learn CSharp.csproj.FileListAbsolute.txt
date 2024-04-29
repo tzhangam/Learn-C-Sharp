@@ -1,0 +1,29 @@
+/Users/tianpengzhang/Desktop/Learn CSharp/bin/Debug/net8.0/Learn CSharp
+/Users/tianpengzhang/Desktop/Learn CSharp/bin/Debug/net8.0/Learn CSharp.deps.json
+/Users/tianpengzhang/Desktop/Learn CSharp/bin/Debug/net8.0/Learn CSharp.runtimeconfig.json
+/Users/tianpengzhang/Desktop/Learn CSharp/bin/Debug/net8.0/Learn CSharp.dll
+/Users/tianpengzhang/Desktop/Learn CSharp/bin/Debug/net8.0/Learn CSharp.pdb
+/Users/tianpengzhang/Desktop/Learn CSharp/obj/Debug/net8.0/Learn CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tianpengzhang/Desktop/Learn CSharp/obj/Debug/net8.0/Learn CSharp.AssemblyInfoInputs.cache
+/Users/tianpengzhang/Desktop/Learn CSharp/obj/Debug/net8.0/Learn CSharp.AssemblyInfo.cs
+/Users/tianpengzhang/Desktop/Learn CSharp/obj/Debug/net8.0/Learn CSharp.csproj.CoreCompileInputs.cache
+/Users/tianpengzhang/Desktop/Learn CSharp/obj/Debug/net8.0/Learn CSharp.dll
+/Users/tianpengzhang/Desktop/Learn CSharp/obj/Debug/net8.0/refint/Learn CSharp.dll
+/Users/tianpengzhang/Desktop/Learn CSharp/obj/Debug/net8.0/Learn CSharp.pdb
+/Users/tianpengzhang/Desktop/Learn CSharp/obj/Debug/net8.0/Learn CSharp.genruntimeconfig.cache
+/Users/tianpengzhang/Desktop/Learn CSharp/obj/Debug/net8.0/ref/Learn CSharp.dll
+/Users/tianpengzhang/Desktop/Learn-C-Sharp/bin/Debug/net8.0/Learn CSharp
+/Users/tianpengzhang/Desktop/Learn-C-Sharp/bin/Debug/net8.0/Learn CSharp.deps.json
+/Users/tianpengzhang/Desktop/Learn-C-Sharp/bin/Debug/net8.0/Learn CSharp.runtimeconfig.json
+/Users/tianpengzhang/Desktop/Learn-C-Sharp/bin/Debug/net8.0/Learn CSharp.dll
+/Users/tianpengzhang/Desktop/Learn-C-Sharp/bin/Debug/net8.0/Learn CSharp.pdb
+/Users/tianpengzhang/Desktop/Learn-C-Sharp/obj/Debug/net8.0/Learn CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tianpengzhang/Desktop/Learn-C-Sharp/obj/Debug/net8.0/Learn CSharp.AssemblyInfoInputs.cache
+/Users/tianpengzhang/Desktop/Learn-C-Sharp/obj/Debug/net8.0/Learn CSharp.AssemblyInfo.cs
+/Users/tianpengzhang/Desktop/Learn-C-Sharp/obj/Debug/net8.0/Learn CSharp.csproj.CoreCompileInputs.cache
+/Users/tianpengzhang/Desktop/Learn-C-Sharp/obj/Debug/net8.0/Learn CSharp.sourcelink.json
+/Users/tianpengzhang/Desktop/Learn-C-Sharp/obj/Debug/net8.0/Learn CSharp.dll
+/Users/tianpengzhang/Desktop/Learn-C-Sharp/obj/Debug/net8.0/refint/Learn CSharp.dll
+/Users/tianpengzhang/Desktop/Learn-C-Sharp/obj/Debug/net8.0/Learn CSharp.pdb
+/Users/tianpengzhang/Desktop/Learn-C-Sharp/obj/Debug/net8.0/Learn CSharp.genruntimeconfig.cache
+/Users/tianpengzhang/Desktop/Learn-C-Sharp/obj/Debug/net8.0/ref/Learn CSharp.dll
